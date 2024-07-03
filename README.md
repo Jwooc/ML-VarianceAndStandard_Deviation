@@ -1,4 +1,4 @@
-#Variance
+[_`Variance`_]
 
 
 To get the Variance
@@ -17,7 +17,7 @@ but, luckily,
 NumPy has a method to calculate the Variance.
 
 
-And
+[_`Standard_Deviation`_]
 
 getting Standard_Deviation is possible, too in this way from Variance.
 
@@ -29,3 +29,7 @@ As a result, the square root of the variance is the Standard_Deviation.
 Or the other way around, multiplying the Standard_Deviation by itself is
 
 getting the Variance.
+
+
+- Variance is often represented by the symbol Sigma Squared: _`σ^2`_
+- Standard_Deviation is often represented by the symbol Sigma: _`σ`_
