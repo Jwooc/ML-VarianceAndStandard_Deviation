@@ -1,4 +1,4 @@
-[_`Variance`_]
+# Variance
 
 
 To get the Variance
@@ -17,7 +17,7 @@ but, luckily,
 NumPy has a method to calculate the Variance.
 
 
-[_`Standard_Deviation`_]
+# Standard_Deviation
 
 getting Standard_Deviation is possible, too in this way from Variance.
 
