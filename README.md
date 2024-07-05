@@ -31,5 +31,6 @@ Or the other way around, multiplying the Standard_Deviation by itself is
 getting the Variance.
 
 
+# Symbols
 - Variance is often represented by the symbol Sigma Squared: _`σ^2`_
 - Standard_Deviation is often represented by the symbol Sigma: _`σ`_
