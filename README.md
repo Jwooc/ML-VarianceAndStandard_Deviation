@@ -19,7 +19,7 @@ NumPy has a method to calculate the Variance.
 
 # Standard_Deviation
 
-getting Standard_Deviation is possible, too in this way from Variance.
+getting Standard_Deviation from Variance is also possible.
 
 The formula to find the Standard_Deviation is the root of the Variance.
 
