@@ -1,5 +1,5 @@
 # Variance
-
+_- Variance is another number that indicates how spread out the values are._
 
 To get the Variance
 
